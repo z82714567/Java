@@ -3,7 +3,11 @@ package sub3;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-
+/**
+ * 날짜 : 2023/07/11
+ * 이름 : 노수현
+ * 내용 : PreparedStatement 실습하기
+ */
 public class PreparedUpdateTest {
 
 	public static void main(String[] args) {

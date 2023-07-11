@@ -39,7 +39,7 @@ public class TransactionTest {
 			//2단계 - 데이터베이스 연결
 			conn = DriverManager.getConnection(host, user, pass);
 			
-			//트랙잭션 시작
+			//트랙잭션 시작(자동 커밋 기능 끄기)
 			conn.setAutoCommit(false);
 			
 			//3단계 - SQL 실행 객체 생성
@@ -78,6 +78,14 @@ public class TransactionTest {
 			} catch (SQLException e1) {
 				e1.printStackTrace();
 			}
+		}
+		
+		try {
+			//원래대로 자동 커밋 기능 켜기
+			conn.setAutoCommit(true);
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 			
 		System.out.println("트랜잭션 완료...");
