@@ -16,7 +16,7 @@ import javax.swing.JLabel;
  * GUI 프로그래밍
  *  - 사용자가 편리하게 프로그램을 사용할 수 있게 윈도우를 지원하는 프로그래밍
  *  - Java는 기본 GUI 개발을 위해 Swing 라이브러리 지원
- *  - 편리한 GUI 개발을 위해 Windowbuilder 설치
+ *  - 편리한 GUI 개발을 위해 Windowbuilder를 설치
  */
 public class HelloSwingTest {
 
