@@ -10,7 +10,7 @@ import java.net.Socket;
 /**
  * 날짜 : 2023/07/06
  * 이름 : 노수현
- * 내용 : 소캣 프로그래밍 실습하기
+ * 내용 : 소캣(Socket) 프로그래밍 실습하기
  */
 
 public class SocketServer {
