@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 날짜 : 2023/07/05
  * 이름 : 노수현
- * 내용 : 01. JAVA,MSA 수행평가
+ * 내용 : JAVA,MSA 수행평가
  */
 public class Test01 {
 	
