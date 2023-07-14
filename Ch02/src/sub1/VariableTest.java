@@ -3,7 +3,7 @@ package sub1;
 /*
  * 날짜 : 2023/06/12
  * 이름 : 노수현
- * 내용 : Ch02.Java 변수와 연산자 실습
+ * 내용 : Ch02.Java 변수와 연산자 실습하기
  *
  */
 public class VariableTest {
