@@ -3,7 +3,9 @@ package sub1;
 /**
  * 날짜 : 2023/06/12
  * 이름 : 노수현
- * 내용 : Ch01.Java 개발환경 구축
+ * 내용 : Ch01.Java 개발환경 구축하기
+ * 
+ * 
  */
 public class Hello {
 	
